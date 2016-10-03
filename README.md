@@ -1,7 +1,5 @@
 
 
-Mappen
->
 ## Nick
 ***Grafische en Digitale Media***
 [Arteveldehogeschool](http://www.arteveldehogeschool.be'website')
