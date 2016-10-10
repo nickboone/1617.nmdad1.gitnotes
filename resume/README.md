@@ -25,7 +25,6 @@
 
 |  Info  |  Antwoord     |
 | ----- |    ----     |
-
 | Favoriete websites en apps |   sporza, Facebook, codepen     |
 | Talenkennis|   nederlands , Basic engels en frans    |
 | hobby’s / interesses |    Lopen en programmeren     |
