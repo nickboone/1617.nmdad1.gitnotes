@@ -4,8 +4,8 @@
 ***Grafische en Digitale Media***
 [Arteveldehogeschool](http://www.arteveldehogeschool.be'website')
 
-------
-
+|  |      |
+| ----- |    ----     |
 | Volledige naam |    Nick Boone      |
 | Adres en woonplaats|    Belgium,Gent     |
 | Geslacht |    Man     |
@@ -14,7 +14,8 @@
 | E-mailadres |    nick.boone@student.arteveldehs.be     |
 | Social Media |    nickboone     |
 
-| :------------| :-----------: |
+|  |      |
+| ----- |    ----     |
 
 
 | Opleiding(en) |    Grafische en Digitale Media     |
@@ -25,8 +26,8 @@
 | Programmeertalen |    CSS3, HTML5, JS, PHP, MySOl     |
 
 
-| :------------| :-----------: |
-
+|  |      |
+| ----- |    ----     |
 
 | Favoriete websites en apps |   sporza, Facebook, codepen     |
 | Talenkennis|   nederlands , Basic engels en frans    |
