@@ -13,8 +13,8 @@
 | E-mailadres |    nick.boone@student.arteveldehs.be     |
 | Social Media |    nickboone     |
 
-|   |       |
 |  Info  |  Antwoord     |
+| ----- |    ----     |
 | Opleiding(en) |    Grafische en Digitale Media     |
 | Werkervaring|    /     |
 | Cursussen en Workshops |    HTML5 en CSS3     |
@@ -23,8 +23,8 @@
 | Programmeertalen |    CSS3, HTML5, JS, PHP, MySOl     |
 
 
-|  |      |
 |  Info  |  Antwoord     |
+| ----- |    ----     |
 
 | Favoriete websites en apps |   sporza, Facebook, codepen     |
 | Talenkennis|   nederlands , Basic engels en frans    |
