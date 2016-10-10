@@ -6,18 +6,28 @@
 
 ------
 
+| Volledige naam |    Nick Boone      |
+| Adres en woonplaats|    Belgium,Gent     |
+| Geslacht |    Man     |
+| Nationaliteit |    Belg      |
+| Burgerlijke staat|   Ongehuwd    |
+| E-mailadres |    nick.boone@student.arteveldehs.be     |
+| Social Media |    nickboone     |
 
-- [Lectures - 1]('/lectures/1/')
-- [Lectures - 2]('/lectures/2/')
-- [Lectures - 3]('/lectures/3/')
-- [Lectures - 4]('/lectures/4/')
-- [Lectures - 5]('/lectures/5/')
-- [Lectures - 6]('/lectures/6/')
-- [Lectures - 7]('/lectures/7/')
-- [Lectures - 8]('/lectures/8/')
-- [Lectures - 9]('/lectures/9/')
-- [Lectures - 10]('/lectures/10/')
-- [Lectures - 11]('/lectures/11/')
-- [Lectures - 12]('/lectures/12/')
-- [Lectures - 13]('/lectures/13/')
+| :------------| :-----------: |
 
+
+| Opleiding(en) |    Grafische en Digitale Media     |
+| Werkervaring|    /     |
+| Cursussen en Workshops |    HTML5 en CSS3     |
+| Computerkennis|   basic    |
+| Software |    Adobe, visual studio code     |
+| Programmeertalen |    CSS3, HTML5, JS, PHP, MySOl     |
+
+
+| :------------| :-----------: |
+
+
+| Favoriete websites en apps |   sporza, Facebook, codepen     |
+| Talenkennis|   nederlands , Basic engels en frans    |
+| hobby’s / interesses |    Lopen en programmeren     |
