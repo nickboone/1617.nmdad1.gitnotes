@@ -2,7 +2,6 @@
 
 ## Nick
 ***Grafische en Digitale Media***
-[Arteveldehogeschool](http://www.arteveldehogeschool.be'website')
 
 |  |      |
 | ----- |    ----     |
@@ -14,10 +13,6 @@
 | E-mailadres |    nick.boone@student.arteveldehs.be     |
 | Social Media |    nickboone     |
 
-|  |      |
-| ----- |    ----     |
-
-
 | Opleiding(en) |    Grafische en Digitale Media     |
 | Werkervaring|    /     |
 | Cursussen en Workshops |    HTML5 en CSS3     |
@@ -25,10 +20,9 @@
 | Software |    Adobe, visual studio code     |
 | Programmeertalen |    CSS3, HTML5, JS, PHP, MySOl     |
 
-
-|  |      |
-| ----- |    ----     |
-
 | Favoriete websites en apps |   sporza, Facebook, codepen     |
 | Talenkennis|   nederlands , Basic engels en frans    |
 | hobby’s / interesses |    Lopen en programmeren     |
+
+
+[Arteveldehogeschool](http://www.arteveldehogeschool.be'website')
