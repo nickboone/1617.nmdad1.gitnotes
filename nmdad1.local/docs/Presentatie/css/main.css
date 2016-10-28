@@ -1,0 +1,15 @@
+.logo{
+
+background-color: white;
+box-shadow: none;
+border: none;
+width: 400px;
+
+}
+
+body{background-color: white;}
+.reveal section img{box-shadow:none;}
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6{color: gray;}
+.reveal h1{color:#EE705F;}
+.reveal a:hover,.reveal a{color: gray;}
+
